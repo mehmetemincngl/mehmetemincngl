@@ -20,5 +20,5 @@
   Expo Router + Firebase Auth ile geliştirilmiş kripto haber uygulaması.
 
 ## 🌐 Sosyal Medya
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)]([https://linkedin.com/in/kullaniciadi](https://www.linkedin.com/in/mehmet-emin-s-418558177/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)]([https://linkedin.com/in/mehmet-emin-s-418558177/])
 [![Twitter](https://img.shields.io/badge/Twitter-black?logo=twitter&logoColor=1DA1F2)](https://twitter.com/)
