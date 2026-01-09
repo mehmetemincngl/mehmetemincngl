@@ -4,7 +4,7 @@
 - 🔭 Şu anda **Crypto News** uygulaması geliştiriyorum (Expo + Firebase Auth).
 - 💻 İlgi alanlarım: React Native, TypeScript, Firebase, UI/UX.
 - 🌍 Türkçe ve İngilizce içerik üretiyorum.
-- 📫 Bana ulaş: (mailto:mehmetemincngl@gmail.com)
+- 📫 Bana ulaş: (mehmetemincngl@gmail.com)
 
 ## 🛠️ Kullandığım Teknolojiler
 ![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)
